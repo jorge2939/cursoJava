@@ -9,9 +9,7 @@ public class Main {
         int var;
         boolean pregunta;
         //char hola;
-
-
-        System.out.println("bienvenido a mi humilde primer programa en java");
+        System.out.println("bienvenido a mi humilde primer programa en java prueba de merge");
        // System.out.println("instroduzca un char ");
        // hola=funcionesScaneo.intentoChar();
       //  System.out.println(hola);
